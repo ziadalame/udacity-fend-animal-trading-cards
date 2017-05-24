@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+.card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 300px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.animal-image {
+    width: 300px;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+.main-text-content {
+    border: 1px solid #ccc;
+    margin-top: 5px;
+    padding: 0px 15px 15px 15px;
+}
+
+ul {
+    margin: 15px 0;
+    list-style: none;
+    padding: 0;
+}
+
+ul li span {
+    font-weight: bold;
+}
